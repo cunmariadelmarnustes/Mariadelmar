@@ -27,4 +27,4 @@ N/A
 | Nombre | Github|
 | ------ | ------ |
 | Maria del mar Ñustes Estrella | https://github.com/cunmariadelmarnustes |
-| Marlon |  |
+| Marlon Rivera Lozano | https://github.com/CUN-MARLONRIVERA |
